@@ -1,0 +1,39 @@
+body {
+background-image: url("../images/wallpaper.jpg");
+background-repeat: repeat;
+}
+
+.blue {
+	
+}
+
+#pageTitle {
+	text-align: center;
+}
+
+#gameWindow {
+	text-align: center;
+}
+
+#imageWindow {
+	padding-top: 15px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#charList {
+	letter-spacing: 5px;
+	text-align: center;
+}
+
+#countryFacts {
+	padding-left: 40px;
+}
+
+#closeText, #already, #gameOver {
+	text-align: center;
+}
+
+img {
+	max-height: 400px;
+}

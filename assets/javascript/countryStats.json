@@ -1,0 +1,148 @@
+{
+	var countryStats = [
+{
+	name: "mexico",
+	image: "sanlorenzo1.jpg",
+	capitalCity: "Mexico City",
+	bird: "Golden eagle",
+	currency: "Peso",
+	youTube: "Q8T9g7memUk"
+},
+{
+	name: "uruguay",
+	image: "chamanga.jpg",
+	capitalCity: "Montevideo",
+	bird: "Southern lapwing",
+	currency: "Peso",
+	youTube: "jc6L_0NZlqk"
+},
+{
+	name: "argentina",
+	image: "tobas.jpg",
+	capitalCity: "Buenos Aires",
+	bird: "Rufous hornero",
+	currency: "Peso",
+	youTube: "L7NJDsUH8ZQ"
+},
+{
+	name: "canada",
+	image: "hamatsa.jpg",
+	capitalCity: "Ottawa",
+	bird: "Canada goose",
+	currency: "Dollar",
+	youTube: "q7Zn6ERmZXM"
+},
+{
+	name: "colombia",
+	image: "tolima.jpg",
+	capitalCity: "Bogot&aacute;",
+	bird: "Andean condor",
+	currency: "Peso",
+	youTube: "yPSL78YDyZY"
+},
+{
+	name: "peru",
+	image: "birdmen.jpg",
+	capitalCity: "Lima",
+	bird: "Cock-of-the-rock",
+	currency: "Inti",
+	youTube: "4NIUhpCaUIU"
+},
+{
+	name: "costarica",
+	image: "nicoya.jpg",
+	capitalCity: "San Jos&eacute;",
+	bird: "Clay-colored thrush",
+	currency: "Colon",
+	youTube: "qUVT63d2P8A"
+},
+{
+	name: "panama",
+	image: "panamagoldguy.jpg",
+	capitalCity: "Panama City",
+	bird: "Harpy eagle",
+	currency: "Balboa",
+	youTube: "HzCpCZu5z_s"
+},
+{
+	name: "chile",
+	image: "mapuche.jpg",
+	capitalCity: "Santiago",
+	bird: "Andean condor",
+	currency: "Peso",
+	youTube: "i8cAkSjS0Ms"
+},
+{
+	name: "suriname",
+	image: "wayanaheaddress.jpg",
+	capitalCity: "Paramaribo",
+	bird: "(none)",
+	currency: "Guilder",
+	youTube: "hZmGknQLd_Y"
+},
+{
+	name: "ecuador",
+	image: "jivaro-bird-headdress.jpg",
+	capitalCity: "Quito",
+	bird: "Andean condor",
+	currency: "Dollar",
+	youTube: "POE_fHCCzxU"
+},
+{
+	name: "guatemala",
+	image: "tikaljademask.jpg",
+	capitalCity: "Guatemala City",
+	bird: "Quetzal",
+	currency: "Quetzal",
+	youTube: "fHKnuWxgI9w"
+},
+{
+	name: "honduras",
+	image: "rosalila.jpg",
+	capitalCity: "Tegucigalpa",
+	bird: "Scarlet macaw",
+	currency: "Lempira",
+	youTube: "HZ_gfZNbboQ"
+},
+{
+	name: "brazil",
+	image: "tapirape.jpg",
+	capitalCity: "Brasilia",
+	bird: "Rufous-bellied thrush",
+	currency: "Real",
+	youTube: "SyyOahYXhUQ"
+},
+{
+	name: "paraguay",
+	image: "paraguaycape.jpg",
+	capitalCity: "Asunci&oacute;n",
+	bird: "Bare-throated bellbird",
+	currency: "Guaran&iacute;",
+	youTube: "jKiBSoRRbi4"
+},
+{
+	name: "cuba",
+	image: "tainodrugtable.jpg",
+	capitalCity: "Havana",
+	bird: "Cuban trogon",
+	currency: "Peso",
+	youTube: "JGT9Zwk892k"
+},
+ {
+	name: "venezuela",
+	image: "snuffkit.jpg",
+	capitalCity: "Caracas",
+	bird: "Venezuelan troupial",
+	currency: "Bolivar",
+	youTube: "W2YtFykr8CM"
+},
+{
+	name: "nicaragua",
+	image: "nicaragua_sculptures.jpg",
+	capitalCity: "Managua",
+	bird: "Motmot",
+	currency: "Cordoba",
+	youTube: "mk6NxCHJN8w"
+}
+]
+}
