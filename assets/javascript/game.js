@@ -166,7 +166,7 @@ games++;
 
 function aoooo() {
 		var winSound = document.createElement("audio");
-		winSound.src = "assets/aoooo!.WAV";
+		winSound.src = "assets/aoooo!.wav";
 		winSound.id = "victory";
 		winSound.type = "wav";
 		var winSoundId = winSound.id;
@@ -181,7 +181,7 @@ function aoooo() {
 
 function heyy() {
 		var lossSound = document.createElement("audio");
-		lossSound.src = "assets/heyy.WAV";
+		lossSound.src = "assets/heyy.wav";
 		lossSound.id = "loss";
 		lossSound.type = "wav";
 		var lossSoundId = lossSound.id;
